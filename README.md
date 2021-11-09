@@ -1,3 +1,2 @@
 # Image-captioning
-
-Another multi-modal architecture for image captioning. 
+In this project, I explored and demonstrated how to design an image caption generation model using the Flicker 8K dataset which involved creating a merge model of a pre-trained Convolutional Neural Network models (VGG and InceptionV3) used for processing, extracting, and converting the images and a Recurrent Neural Network model, LSTM (Long Short-Term Memory) to process the sequence input and output a sentence to describe any given image using the provided and learnt from CNN. The model architectures explored were evaluated and compared. The models did yield satisfactory results. 
